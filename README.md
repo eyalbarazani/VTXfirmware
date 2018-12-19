@@ -1,4 +1,4 @@
-# VTXfirmware (work in process)
+# VTXfirmware (work in progress)
 A control interface for TX-5823S VTX module using TBS Smartaudio protocol, described here:
 https://www.team-blacksheep.com/tbs_smartaudio_rev08.pdf
 
